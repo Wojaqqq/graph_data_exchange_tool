@@ -2,6 +2,11 @@
 
 Celem projektu jest przegląd formatów i sposobów wymiany danych grafowych oraz ich zastosowanie w Neo4J, Apache AGE oraz redis-graph. Oczywistym formatem są zrzuty w języku [Cypher](https://en.wikipedia.org/wiki/Cypher_(query_language)), ale istnieje szereg innych formatów, które należy porównać pod względem siły ekspresji (szczególnie w zestawieniu z modelami danych poszczególnych narzędzi) i wsparcia w narzędziach.
 
+# Autorzy
+
+- [Tomasz Wojakowski](https://github.com/Wojaqqq)
+- [Bartosz Nieroda](https://github.com/qymaensheel)
+- [Krzysztof Pala](https://github.com/pallovsky)
 
 # Dokumentacja
 
